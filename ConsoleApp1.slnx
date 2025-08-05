@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="WebApplication1.Test/WebApplication1.Test.csproj" />
+  <Project Path="WebApplication1/WebApplication1.csproj" />
+  <Project Path="WebApplication2/WebApplication2.csproj" />
+</Solution>

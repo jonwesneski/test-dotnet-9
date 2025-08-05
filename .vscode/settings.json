@@ -1,0 +1,10 @@
+{
+    "dotnet.defaultSolution": "ConsoleApp1.slnx",
+    "terminal.integrated.profiles.osx": {
+        "zsh": {
+            "path": "zsh",
+            "args": []
+        }
+    },
+    "terminal.integrated.defaultProfile.osx": "zsh"
+}
