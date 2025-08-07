@@ -1,9 +1,7 @@
-﻿using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using Moq;
+﻿using Moq;
 using WebApplication1.Controllers;
-using WebApplication1.Data;
-using WebApplication1.Data.Repositories;
+using MyDomain.Data;
+using MyDomain.Data.Repositories;
 using WebApplication1.Services;
 
 namespace WebApplication1.Test;

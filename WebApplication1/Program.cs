@@ -2,9 +2,9 @@ using System.Data;
 using Microsoft.EntityFrameworkCore;
 using Npgsql;
 using WebApplication1.Entity;
-using WebApplication1.Data;
-using WebApplication1.Data.Repositories;
 using WebApplication1.Services;
+using MyDomain.Data;
+using MyDomain.Data.Repositories;
 
 
 var builder = WebApplication.CreateBuilder(args);
